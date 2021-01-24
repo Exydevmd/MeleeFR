@@ -1,2 +1,2 @@
-# sheik
-A Melee Sheik Site
+# Melee FR
+Melee for Frenchies
